@@ -4,7 +4,7 @@ This article has the purpose to educate factors affecting the stock price index 
 It was found that factors affecting the stock price index of the finance and securities sector in the stock exchange of Thailand at the 0.05 level of statistical significance were the exchange rate of the baht against the US dollar, Down Jones Index, United States 10-Year Bond Yield, United States 2-Year Bond Yield, and Consumer price index. The knowledge discovered through this study can inform investors who want to invest in the finance and securities sector in the stock exchange of Thailand to know what factors affect the stock price index of the finance and securities sector and uses in investment planning. 
 
 ### Model score
-####Linear Regression 
+#### Linear Regression 
 Train = 0.9137 
 Test = 0.8215 
 
