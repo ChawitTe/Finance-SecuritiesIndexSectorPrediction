@@ -50,10 +50,22 @@ Test = 0.6593
 | Consumer confidence index             | -0.357          | 10.225      | -0.035      | 0.972     |
 | Consumer price index                | 142.357         | 38.115      | 3.735       | 0.000     |
 
-#### Model Statistics:
+### Model Statistics:
 - **R-squared**: 0.897
 - **Adjusted R-squared**: 0.947
 - **Standard Error of Estimate (SEE)**: 290.899
 - **F-statistic**: 84.802
 - **Significance (p-value)**: 0.000
+
+Based on the test results using the Multiple Linear Regression Analysis method, with 6 independent variables, it was found that 5 of the independent variables significantly affect the stock price index of the financial and securities sector at a 0.05 significance level. These variables are:
+- **Exchange rate (Baht/USD)**
+- **Dow Jones Index**
+- **10-year U.S. government bond yield**
+- **2-year U.S. government bond yield**
+- **General Consumer Price Index (CPI)**
+
+### The multiple correlation coefficient (R) is 0.947, explaining 89.7% of the relationship. The regression equation can be expressed as follows:
+\[
+\hat{Y} = -8688.364 - 161.004X_1 + 0.125X_2 + 592.079X_3 - 578.824X_4 - 0.357X_5 + 142.357X_6
+\]
 
