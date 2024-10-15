@@ -1,6 +1,6 @@
 # Predicted Finance&Securities Index Sector
 ### Abstract
-This article has the purpose to educate factors affecting the stock price index of the finance and securities sector in the stock exchange of Thailand. A quantitative research model using secondary data, which is monthly quantitative data. There are 72 months from January 2017 to December 2022, and the research factors in this study are the exchange rate of the baht against the US dollar, Down Jones Index, United States 10-Year Bond Yield, United States 2-Year Bond Yield, Consumer Confidence Index, and Consumer price index using the multiple linear regression analysis to study the relationship between dependent and independent variables. 
+This article has the purpose to educate factors affecting the stock price index of the finance and securities sector in the stock exchange of Thailand. A quantitative research model using secondary data, which is monthly quantitative data. There are 72 months from January 2017 to December 2022, and the research factors in this study are the exchange rate of the baht against the US dollar, Down Jones Index, United States 10-Year Bond Yield, United States 2-Year Bond Yield, Consumer Confidence Index, and Consumer Price Index using the multiple linear regression analysis to study the relationship between dependent and independent variables. 
 It was found that factors affecting the stock price index of the finance and securities sector in the stock exchange of Thailand at the 0.05 level of statistical significance were the exchange rate of the baht against the US dollar, Down Jones Index, United States 10-Year Bond Yield, United States 2-Year Bond Yield, and Consumer price index. The knowledge discovered through this study can inform investors who want to invest in the finance and securities sector in the stock exchange of Thailand to know what factors affect the stock price index of the finance and securities sector and uses in investment planning. 
 
 ### Model score
@@ -36,7 +36,7 @@ Test = 0.6593
   - 10-year government bond yield
   - 2-year government bond yield
   - Consumer confidence index
-  - General inflation rate
+  - Consumer price index
 
 ### Regression Model Summary
 
@@ -44,11 +44,11 @@ Test = 0.6593
 |---------------------------------------|-----------------|-------------|-------------|-----------|
 | Intercept                             | -8688.364       | 2689.696    | -3.230      | 0.002     |
 | Exchange rate (Baht/USD)              | -161.004        | 35.943      | -4.479      | 0.000     |
-| Down Jones Index                      | 0.125           | 0.016       | 7.974       | 0.000     |
-| 10-year government bond yield         | 592.079         | 147.857     | 4.004       | 0.000     |
-| 2-year government bond yield          | -578.824        | 128.337     | -4.510      | 0.000     |
+| Down Jones index                      | 0.125           | 0.016       | 7.974       | 0.000     |
+| United States 10-year bond yield         | 592.079         | 147.857     | 4.004       | 0.000     |
+| United States 2-year bond yield          | -578.824        | 128.337     | -4.510      | 0.000     |
 | Consumer confidence index             | -0.357          | 10.225      | -0.035      | 0.972     |
-| General inflation rate                | 142.357         | 38.115      | 3.735       | 0.000     |
+| Consumer price index                | 142.357         | 38.115      | 3.735       | 0.000     |
 
 #### Model Statistics:
 - **R-squared**: 0.897
