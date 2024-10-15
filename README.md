@@ -66,6 +66,7 @@ Based on the test results using the Multiple Linear Regression Analysis method, 
 
 The multiple correlation coefficient (R) is 0.947, explaining 89.7% of the relationship. The regression equation can be expressed as follows:
 - Y = -8688.364 - 161.004X1 + 0.125X2 + 592.079X3 - 578.824X4 - 0.357X5 + 142.357X6
+
 Where:
 - X1 : Exchange rate (Baht/USD)
 - X2 : Dow Jones Index
