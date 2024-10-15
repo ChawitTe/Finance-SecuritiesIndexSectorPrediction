@@ -65,15 +65,12 @@ Based on the test results using the Multiple Linear Regression Analysis method, 
 - **General Consumer Price Index (CPI)**
 
 The multiple correlation coefficient (R) is 0.947, explaining 89.7% of the relationship. The regression equation can be expressed as follows:
-\[
-\hat{Y} = -8688.364 - 161.004X_1 + 0.125X_2 + 592.079X_3 - 578.824X_4 - 0.357X_5 + 142.357X_6
-\]
-
-### Where:
-- \( X_1 \): Exchange rate (Baht/USD)
-- \( X_2 \): Dow Jones Index
-- \( X_3 \): 10-year U.S. government bond yield
-- \( X_4 \): 2-year U.S. government bond yield
-- \( X_5 \): Consumer confidence index
-- \( X_6 \): General Consumer Price Index (CPI)
+- Y = -8688.364 - 161.004X1 + 0.125X2 + 592.079X3 - 578.824X4 - 0.357X5 + 142.357X6
+Where:
+- X1 : Exchange rate (Baht/USD)
+- X2 : Dow Jones Index
+- X3 : 10-year U.S. government bond yield
+- X4 : 2-year U.S. government bond yield
+- X5 : Consumer confidence index
+- X6: General Consumer Price Index (CPI)
 
