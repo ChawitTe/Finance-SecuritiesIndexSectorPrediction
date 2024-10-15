@@ -8,23 +8,23 @@ It was found that factors affecting the stock price index of the finance and sec
 Train = 0.9137 
 Test = 0.8215 
 
-####Ridge Regression 
+#### Ridge Regression 
 Train = 0.9099 
 Test = 0.8133 
 
-####Lasso Regression 
+#### Lasso Regression 
 Train = 0.9136 
 Test = 0.8204 
 
-###Gradient Boosting Regressor 
+#### Gradient Boosting Regressor 
 Train = 0.9996 
 Test = 0.7818 
 
-###Random Forest Regressor 
+#### Random Forest Regressor 
 Train = 0.9842 
 Test = 0.8022 
 
-### Decision Tree Regressor 
+#### Decision Tree Regressor 
 Train = 1.0 
 Test = 0.6593 
 
