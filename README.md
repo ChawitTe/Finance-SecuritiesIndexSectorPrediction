@@ -64,8 +64,6 @@ Based on the test results using the Multiple Linear Regression Analysis method, 
 - **2-year U.S. government bond yield**
 - **General Consumer Price Index (CPI)**
 
-### The multiple correlation coefficient (R) is 0.947, explaining 89.7% of the relationship. The regression equation can be expressed as follows:
-\[
-\hat{Y} = -8688.364 - 161.004X_1 + 0.125X_2 + 592.079X_3 - 578.824X_4 - 0.357X_5 + 142.357X_6
-\]
+The multiple correlation coefficient (R) is 0.947, explaining 89.7% of the relationship. The regression equation can be expressed as follows:
+Y^ = -8688.364 - 161.004X_1 + 0.125X_2 + 592.079X_3 - 578.824X_4 - 0.357X_5 + 142.357X_6
 
