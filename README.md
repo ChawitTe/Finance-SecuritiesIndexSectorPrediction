@@ -61,9 +61,9 @@ Test = 0.6593
 Based on the test results using the Multiple Linear Regression Analysis method, with 6 independent variables, it was found that 5 of the independent variables significantly affect the stock price index of the financial and securities sector at a 0.05 significance level. These variables are:
 - **Exchange rate (Baht/USD)**
 - **Dow Jones Index**
-- **10-year U.S. government bond yield**
-- **2-year U.S. government bond yield**
-- **General Consumer Price Index (CPI)**
+- **United States 10-year bond yield**
+- **United States 2-year bond yield**
+- **Consumer price index**
 
 The multiple correlation coefficient (R) is 0.947, explaining 89.7% of the relationship. The regression equation can be expressed as follows:
 - Y = -8688.364 - 161.004X1 + 0.125X2 + 592.079X3 - 578.824X4 - 0.357X5 + 142.357X6
@@ -71,8 +71,8 @@ The multiple correlation coefficient (R) is 0.947, explaining 89.7% of the relat
 Where:
 - X1 : Exchange rate (Baht/USD)
 - X2 : Dow Jones Index
-- X3 : 10-year U.S. government bond yield
-- X4 : 2-year U.S. government bond yield
+- X3 : United States 10-year bond yield
+- X4 : United States 2-year bond yield
 - X5 : Consumer confidence index
-- X6: General Consumer Price Index (CPI)
+- X6 : Consumer price index
 
